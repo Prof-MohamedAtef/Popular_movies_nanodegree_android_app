@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/panel_one"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    android:name="com.example.prof_mohamedatef.tabletfragments.MainFragment"
+    tools:ignore="MergeRootFrame"
+    >
+    <!--<fragment-->
+        <!--android:id="@+id/MainFragment_TagElement"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--tools:layout="@layout/main_fragment"-->
+        <!--android:name="com.example.prof_mohamedatef.tabletfragments.MainFragment"-->
+        <!--/>-->
+</FrameLayout>
